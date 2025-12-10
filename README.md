@@ -1,8 +1,8 @@
-# OpenWrt Backup Manager
+# OpenWrt Time Machine
 
-**Never lose your router settings again!**
 
-A simple backup tool for OpenWrt routers that automatically saves your settings online. No technical knowledge required - just answer a few questions and you're protected.
+
+A simple backup tool for OpenWrt routers that automatically saves your settings on router and optionally online. 
 
 ## What It Does
 
